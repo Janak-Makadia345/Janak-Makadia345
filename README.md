@@ -2,7 +2,7 @@
 
 🔭 I’m currently pursuing B.Tech in Information Technology at Charusat University, Class of 2026  
 👯 I’m looking to collaborate on AI/ML, Cloud Computing, DevOps, and Full-Stack Development projects  
-🌱 I’m currently learning Kubernetes, AWS, and Advanced DevOps Practices  
+🌱 I’m currently learning advanced Kubernetes, AWS, and DevOps Practices  
 💬 Ask me about Machine Learning, Cloud Security, DevOps, and Digital Forensics  
 
 ## 🌐 Socials:  
